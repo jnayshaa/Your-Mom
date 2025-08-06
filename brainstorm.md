@@ -1,8 +1,3 @@
----
-title: Untitled
-
----
-
 ## Brainstorming:
 I want to create something simple but useful expecially for students, like something that helps with distarctions or something that helps with discipline or management. 
 
